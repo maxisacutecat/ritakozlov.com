@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ritakozlov.com/about/</loc>
+    <lastmod>2018-07-07T13:19:53-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ritakozlov.com/posts/my-first-post/</loc>
+    <lastmod>2018-07-07T12:42:50-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ritakozlov.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ritakozlov.com/posts/</loc>
+    <lastmod>2018-07-07T12:42:50-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ritakozlov.com/</loc>
+    <lastmod>2018-07-07T13:19:53-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ritakozlov.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

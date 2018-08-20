@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rita Kozlov</title>
+    <link>https://ritakozlov.com/</link>
+    <description>Recent content on Rita Kozlov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Jul 2018 13:19:53 -0700</lastBuildDate>
+    
+	<atom:link href="https://ritakozlov.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>about me</title>
+      <link>https://ritakozlov.com/about/</link>
+      <pubDate>Sat, 07 Jul 2018 13:19:53 -0700</pubDate>
+      
+      <guid>https://ritakozlov.com/about/</guid>
+      <description>this is on a need to know basis.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ritakozlov.com/posts/my-first-post/</link>
+      <pubDate>Sat, 07 Jul 2018 12:42:50 -0700</pubDate>
+      
+      <guid>https://ritakozlov.com/posts/my-first-post/</guid>
+      <description>this is code</description>
+    </item>
+    
+  </channel>
+</rss>
