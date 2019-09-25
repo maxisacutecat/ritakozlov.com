@@ -1,21 +1,22 @@
-baseURL = "http://staging.ritakozlov.com/"
 languageCode = "en-us"
 title = "Rita Kozlov"
 theme = "coder"
 
 
 paginate = 20 # Default number of pages per page in pagination.
-canonifyurls = true # Enable to turn relative URLs into absolute.
+canonifyurls = false # Enable to turn relative URLs into absolute.
+uglyURLs = true
 
 pygmentsstyle = "b2" # Color-theme or style for syntax highlighting.
 pygmentscodefences = true # Enable code fence background highlighting.
 pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences without specified language.
 
+
 disqusShortname = "ritakozlov" # Enable or disable Disqus
 
 [params] # theme parameters
     author = "Rita Kozlov" # Author's name.
-    info = "Icon" # Author's job title or info.
+    info = "Product Manager" # Author's job title or info.
     description = "Most cat pics" # Site description.
     keywords = "blog,developer,personal" # Site keywords.
 
@@ -37,17 +38,17 @@ disqusShortname = "ritakozlov" # Enable or disable Disqus
 [[params.social]]
     name = "Twitter"
     weight = 2
-    url = "https://twitter.com/smugjuice/"
+    url = "https://twitter.com/ritakozlov_/"
 [[params.social]]
     name = "LinkedIn"
     weight = 3
     url = "https://www.linkedin.com/in/ritakozlov/"
+[[params.social]]
+    name = "Instagram"
+    weight = 3
+    url = "https://www.instagram.com/lovelyreetah/"
 
 # Menu links
-[[menu.main]]
-    name = "Blog"
-    weight = 1
-    url  = "/posts/"
 [[menu.main]]
     name = "About"
     weight = 2

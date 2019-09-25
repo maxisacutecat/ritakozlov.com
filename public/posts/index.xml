@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Rita Kozlov</title>
-    <link>https://ritakozlov.com/posts/</link>
+    <link>http://staging.ritakozlov.com/posts/</link>
     <description>Recent content in Posts on Rita Kozlov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Jul 2018 12:42:50 -0700</lastBuildDate>
     
-	<atom:link href="https://ritakozlov.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://staging.ritakozlov.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://ritakozlov.com/posts/my-first-post/</link>
+      <link>http://staging.ritakozlov.com/posts/my-first-post/</link>
       <pubDate>Sat, 07 Jul 2018 12:42:50 -0700</pubDate>
       
-      <guid>https://ritakozlov.com/posts/my-first-post/</guid>
+      <guid>http://staging.ritakozlov.com/posts/my-first-post/</guid>
       <description>this is code</description>
     </item>
     

@@ -2,31 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rita Kozlov</title>
-    <link>https://ritakozlov.com/</link>
+    <link>/</link>
     <description>Recent content on Rita Kozlov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Jul 2018 13:19:53 -0700</lastBuildDate>
     
-	<atom:link href="https://ritakozlov.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>about me</title>
-      <link>https://ritakozlov.com/about/</link>
+      <link>/about.html</link>
       <pubDate>Sat, 07 Jul 2018 13:19:53 -0700</pubDate>
       
-      <guid>https://ritakozlov.com/about/</guid>
-      <description>this is on a need to know basis.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ritakozlov.com/posts/my-first-post/</link>
-      <pubDate>Sat, 07 Jul 2018 12:42:50 -0700</pubDate>
-      
-      <guid>https://ritakozlov.com/posts/my-first-post/</guid>
-      <description>this is code</description>
+      <guid>/about.html</guid>
+      <description>  Product Manager of Cloudflare Workers Cat parent Excited about serverless Baker of pastries  Talks I&amp;rsquo;ve done  Real World Serverless, San Francisco: Workers in the Wilderness Serverless Days, Milan: Optimizing performance, reliability and cost with Cloudflare Workers DevOpsCon, Berlin: Practical Approach to Adopting Serverless SoundBoard, Athens, GA: The Importance of Preparing For DDOS Attacks  </description>
     </item>
     
   </channel>
