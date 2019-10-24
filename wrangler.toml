@@ -1,0 +1,8 @@
+account_id = "75f4046a20169dc2ff68df64f8a7e2ab"
+name = "ritakozlov"
+type = "webpack"
+workers_dev = true
+
+[site]
+bucket = "./public"
+entry-point = "workers-site"

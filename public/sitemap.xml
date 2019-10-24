@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about.html</loc>
+    <loc>/about/</loc>
     <lastmod>2018-07-07T13:19:53-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories.html</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
@@ -19,7 +19,7 @@
   </url>
   
   <url>
-    <loc>/tags.html</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   

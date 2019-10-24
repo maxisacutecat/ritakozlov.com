@@ -13,11 +13,11 @@
     
     <item>
       <title>about me</title>
-      <link>/about.html</link>
+      <link>/about/</link>
       <pubDate>Sat, 07 Jul 2018 13:19:53 -0700</pubDate>
       
-      <guid>/about.html</guid>
-      <description>  Product Manager of Cloudflare Workers Cat parent Excited about serverless Baker of pastries  Talks I&amp;rsquo;ve done  Real World Serverless, San Francisco: Workers in the Wilderness Serverless Days, Milan: Optimizing performance, reliability and cost with Cloudflare Workers DevOpsCon, Berlin: Practical Approach to Adopting Serverless SoundBoard, Athens, GA: The Importance of Preparing For DDOS Attacks  </description>
+      <guid>/about/</guid>
+      <description>Product Manager of Cloudflare Workers Cat parent Excited about serverless Baker of pastries  Talks I&amp;rsquo;ve given  Supercharging Optimizely Performance by Moving Decisions to the Edge Real World Serverless, San Francisco: Workers in the Wilderness Serverless Days, Milan: Optimizing performance, reliability and cost with Cloudflare Workers DevOpsCon, Berlin: Practical Approach to Adopting Serverless SoundBoard, Athens, GA: The Importance of Preparing For DDOS Attacks  Things I&amp;rsquo;ve written  Workers Sites: Deploy Your Website Directly on our Network Improving developer experience for Cloudflare Workers  Announcing Workers.</description>
     </item>
     
   </channel>

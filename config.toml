@@ -5,7 +5,6 @@ theme = "coder"
 
 paginate = 20 # Default number of pages per page in pagination.
 canonifyurls = false # Enable to turn relative URLs into absolute.
-uglyURLs = true
 
 pygmentsstyle = "b2" # Color-theme or style for syntax highlighting.
 pygmentscodefences = true # Enable code fence background highlighting.
@@ -16,7 +15,7 @@ disqusShortname = "ritakozlov" # Enable or disable Disqus
 
 [params] # theme parameters
     author = "Rita Kozlov" # Author's name.
-    info = "Product Manager" # Author's job title or info.
+    info = "Cloudflare Worker 👩🏻‍🏭" # Author's job title or info.
     description = "Most cat pics" # Site description.
     keywords = "blog,developer,personal" # Site keywords.
 
