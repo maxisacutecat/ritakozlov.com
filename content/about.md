@@ -9,6 +9,8 @@ slug = ""
 - Excited about serverless
 - Baker of pastries
 
+
+
 ## Talks I've given
 - <a href="https://www.optimizely.com/sessions/safer-faster-better-implementing-optimizely-the-right-way/">Supercharging Optimizely Performance by Moving Decisions to the Edge</a>
 - <a href="https://www.youtube.com/watch?v=kGeu2GzyVKw">Real World Serverless, San Francisco: Workers in the Wilderness</a>
